@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 rand = "0.8"
 serde_json = "1.0.114"
+http = "1.1.0"
